@@ -1,15 +1,15 @@
-# Olá! Somos a caBRAPI!!!
+# Hello! We are caBRAPI!!!
 
-A caBRAPI é uma plataforma completa para **criação, gestão e expansão de lojas virtuais**, desenvolvida para tornar a operação de vendas online mais simples, eficiente e acessível.
+caBRAPI is a complete platform for **creating, managing, and expanding online stores**, designed to make online sales operations simpler, more efficient, and more accessible.
 
 <img align="left" height="220" src="https://www.cabrapi.com.br/images/icone.png"/>
 
-Centralize **produtos, categorias, cupons, pagamentos, pedidos e vendas** em um único ambiente, com recursos desenvolvidos para acompanhar as necessidades e o crescimento do seu negócio.
+Centralize **products, categories, coupons, payments, orders, and sales** in a single environment, with features developed to meet the needs and growth of your business.
 
-#### `1.` Acesse [www.cabrapi.com.br](https://www.cabrapi.com.br/).
+#### `1.` Access [www.cabrapi.com.br](https://www.cabrapi.com.br/).
 
-#### `2.` Crie sua conta e escolha o plano adequado para sua loja.
+#### `2.` Create your account and choose the appropriate plan for your store.
 
-#### `3.` Configure seus produtos, categorias, cupons e métodos de pagamento.
+#### `3.` Configure your products, categories, coupons, and payment methods.
 
-#### `4.` Publique sua loja e comece a vender ou utilize nossa [API](https://docs.cabrapi.com.br/) para integrar a caBRAPI ao seu projeto.
+#### `4.` Publish your store and start selling, or use our [API](https://docs.cabrapi.com.br/) to integrate caBRAPI into your project.
