@@ -2,8 +2,6 @@
 
 caBRAPI is a complete platform for **creating, managing, and expanding online stores**, designed to make online sales operations simpler, more efficient, and more accessible.
 
-<img align="left" height="220" src="https://www.cabrapi.com.br/images/icone.png"/>
-
 Centralize **products, categories, coupons, payments, orders, and sales** in a single environment, with features developed to meet the needs and growth of your business.
 
 #### `1.` Access [www.cabrapi.com.br](https://www.cabrapi.com.br/).
